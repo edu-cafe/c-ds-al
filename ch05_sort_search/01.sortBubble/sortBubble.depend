@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1465173862 source:c:\share\lab_al\sortbubble\bubblesort.c
+
+1465173317 source:c:\share\lab_al\sortbubble\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1465173440 source:c:\share\lab_al\sortbubble\swap.c
+	<stdlib.h>
+	<string.h>
+

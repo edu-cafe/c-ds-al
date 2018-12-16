@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1465184428 source:c:\share\lab_al\sortquick\main.c
+	<stdio.h>
+	<stdlib.h>
+
