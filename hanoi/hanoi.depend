@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1463916473 source:c:\share\lab_al\hanoi\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1463916473 source:d:\kosta\c\c 자료구조와 알고리즘\mydata\lab_al_st_ok\ch01_intro\hanoi\main.c
+	<stdio.h>
+	<stdlib.h>
+
